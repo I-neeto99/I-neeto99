@@ -8,17 +8,17 @@
 
 ---
 
-### 🎯 Sobre mim
+### Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, em São Paulo. Meu foco principal é **Cybersecurity**, e pratico regularmente no **Hack The Box** e **TryHackMe**. Também desenvolvo projetos full-stack como forma de consolidar fundamentos de backend, banco de dados e boas práticas de código.
 
-- 🌱 Estudando: Cybersecurity, Java, Spring Boot
-- 💬 Pergunte-me sobre: Java, SQL, Linux, fundamentos de segurança ofensiva
-- 📫 Contato: [LinkedIn](www.linkedin.com/in/italo-neto-390579345)
+- Estudando: Cybersecurity, Java, Spring Boot
+- Pergunte-me sobre: Java, SQL, Linux, fundamentos de segurança ofensiva
+- Contato: [LinkedIn](www.linkedin.com/in/italo-neto-390579345)
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 **[Sistema Financeiro Pessoal](https://github.com/I-neeto99/Sistema-Financeiro-Pessoal)**
 Sistema full-stack de gestão financeira pessoal, construído do zero como projeto de portfólio.
@@ -32,7 +32,7 @@ Plataforma gamificada de sustentabilidade urbana, com missões por GPS, realidad
 
 ---
 
-### 🛠️ Stack e ferramentas
+### Stack e ferramentas
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Plataforma gamificada de sustentabilidade urbana, com missões por GPS, realidad
 
 ---
 
-### 🔐 Cybersecurity
+### Cybersecurity
 
 <div align="center">
 
