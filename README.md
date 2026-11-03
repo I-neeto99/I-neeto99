@@ -1,53 +1,64 @@
-<h1 align="center">Italo Neto</h1>
+<div align="center">
 
-<p align="center">
-  Estudante de ADS na FIAP · Caminho para Cybersecurity e DevSecOps · Guarulhos, SP
-</p>
+# Olá, eu sou o Italo 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/italo-neto-390579345">LinkedIn</a> ·
-  <a href="mailto:italo.neeto.oliv@outlook.com">E-mail</a> ·
-  <a href="https://tryhackme.com/p/SEU-USUARIO">TryHackMe</a> ·
-  <a href="https://app.hackthebox.com/profile/SEU-ID">Hack The Box</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+na+FIAP;Focado+em+Cybersecurity;Aprendendo+Java+%26+Spring+Boot" alt="Typing SVG" />
 
-<br>
+</div>
 
-```bash
-italo@fiap:~$ whoami
-> estudante de ADS que gosta de entender como as coisas funcionam — e como quebram
+---
 
-italo@fiap:~$ cat foco.txt
-> cybersecurity · devsecops · back-end java
+### Sobre mim
 
-italo@fiap:~$ ls certificacoes/
-> microsoft-sc-900   coursera-fundamentos-seguranca-da-informacao
-```
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, em São Paulo. Meu foco principal é **Cybersecurity**, e pratico regularmente no **Hack The Box** e **TryHackMe**. Também desenvolvo projetos full-stack como forma de consolidar fundamentos de backend, banco de dados e boas práticas de código.
 
-<br>
+- Estudando: Cybersecurity, Java, Spring Boot
+- Pergunte-me sobre: Java, SQL, Linux, fundamentos de segurança ofensiva
+- Contato: [LinkedIn]([www.linkedin.com/in/italo-neto-390579345](https://www.linkedin.com/in/italo-neto-390579345))
 
-## Projetos
+---
 
-**🏆 [SoulHunter](https://soul-hunter-mvp.vercel.app)** — *React · TypeScript · Vite*
-Projeto campeão do Challenge FIAP, escolhido pela SoulUp entre 6 grupos. Missões sobre hábitos sustentáveis no transporte público de São Paulo.
+### Projetos em destaque
 
-**💰 [Sistema Financeiro Pessoal](https://github.com/I-neeto99/Sistema-Financeiro-Pessoal)** — *Java · Spring Boot · PostgreSQL*
-API de controle de gastos feita do zero, com CRUD completo. Em desenvolvimento.
+**[Sistema Financeiro Pessoal](https://github.com/I-neeto99/Sistema-Financeiro-Pessoal)**
+Sistema full-stack de gestão financeira pessoal, construído do zero como projeto de portfólio.
+`Java` `Spring Boot 3` `PostgreSQL` `JPA/Hibernate` `Lombok`
 
-**♿ Portal de Locais Acessíveis** — *TypeScript · React*
-Projeto da turma em squads, com issues, Git Flow e Pull Requests.
+**[SafraSmart / AgroSatélite](https://github.com/cearaa/AgroSateliteGS_FrontEnd.git)**
+Plataforma de suporte à decisão agrícola usando dados reais do satélite Sentinel-2, Node-RED, Watson Assistant e Oracle Spatial. Projeto de Global Solution da FIAP.
 
-<br>
+**[SoulHunter](https://github.com/cearaa/SoulHunter_Sprint_Front-End.git)**
+Plataforma gamificada de sustentabilidade urbana, com missões por GPS, realidade aumentada e tokens em blockchain.
 
-## Ferramentas
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,git,linux,figma&theme=dark" />
-</p>
+### Stack e ferramentas
 
-<br>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I-neeto99/I-neeto99/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/I-neeto99/I-neeto99/output/github-contribution-grid-snake.svg" />
-</picture>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### Cybersecurity
+
+<div align="center">
+
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/SEU-ID-AQUI)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/SEU-USUARIO-AQUI)
+
+</div>
+
+
+
+quero melhorar isso
